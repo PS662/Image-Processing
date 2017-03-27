@@ -18,7 +18,9 @@ CMakeLists.txt - Contains desc for cmake
 RUN:
 
 Use cmake to generate make file
+
 Use make to generate executable file
+
 Run the executable from terminal
 
 Or
